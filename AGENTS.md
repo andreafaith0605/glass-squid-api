@@ -1,0 +1,1 @@
+Back-end web application that connects the Supabase database API to the web and Android clients for glass squid.
